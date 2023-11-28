@@ -1,0 +1,2 @@
+# Fivem-Globalban
+Fivem-Globalban
