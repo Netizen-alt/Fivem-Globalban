@@ -1,16 +1,15 @@
-This project was fivem with [Create Basic Globalban](https://github.com/JKTheRipperTH/Fivem-Globalban/).
+โครงการนี้สำหรับ fivem  [สร้าง Globalban ขั้นพื้นฐาน](https://github.com/JKTheRipperTH/Fivem-Globalban/).
 
 ตัวงานนี้ยังไม่เสร็จนะครับ เนื่องจากเป็นโปรเจคที่ทำจำลองการแบนแบบสาธารณะ โค๊ดภายในอาจจะยังเป็น Low Code ที่ยังไม่มีประสิทธิภาพมากพอที่จะใช้งาน
 
-## Available Scripts
+## สคริปต์ที่มีอยู่
 In the project directory, you can run:
 
 ### `npm run start`
 
-uns the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+เปิด [http://localhost:3000](http://localhost:3000) เพื่อดูในเบราว์เซอร์
 
-## Edit Config Url or Default Url
+## แก้ไข Config Url หรือ Default Url
 
 ### `ensure s_globalban`
 
