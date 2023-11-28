@@ -28,4 +28,4 @@ MONGO_URL=""
 
 [MIT license](https://opensource.org/licenses/MIT).
 
-# Service GlobalBan For Fivem Script Server Only U
+# Service GlobalBan For Fivem Script Server Only Your
